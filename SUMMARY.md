@@ -29,7 +29,7 @@
             * [Test - Joypad (3/4)](games/1994/Art Of Fighting 2/8.md)
             * [Test - Joypad (4/4)](games/1994/Art Of Fighting 2/9.md)
         * [Pub](misc/4.md)
-        * [2Karnovs Revenge](games/1994/Karnovs Revenge/index.md)
+        * [Karnov's Revenge](games/1994/Karnovs Revenge/index.md)
             * [Test - Joypad (1/3)](games/1994/Karnovs Revenge/2.md)
             * [Test - Joypad (2/3)](games/1994/Karnovs Revenge/3.md)
             * [Test - Joypad (3/3)](games/1994/Karnovs Revenge/4.md)
