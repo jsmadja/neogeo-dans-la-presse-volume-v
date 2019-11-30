@@ -3,3 +3,4 @@
 | Magazines |
 | -- | -- |
 | Player One | 98% |
+| Joypad | 92% |
