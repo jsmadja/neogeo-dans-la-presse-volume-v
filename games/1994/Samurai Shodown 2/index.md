@@ -4,3 +4,4 @@
 | -- | -- |
 | Player One | 98% |
 | Joypad | 92% |
+| Consoles + | 94% |

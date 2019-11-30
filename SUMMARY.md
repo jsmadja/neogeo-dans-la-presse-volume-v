@@ -45,6 +45,8 @@
             * [Test - Joypad (2/4)](games/1994/Samurai Shodown 2/5.md)
             * [Test - Joypad (3/4)](games/1994/Samurai Shodown 2/6.md)
             * [Test - Joypad (4/4)](games/1994/Samurai Shodown 2/7.md)
+            * [Test - Consoles+ (1/2)](games/1994/Samurai Shodown 2/8.md)
+            * [Test - Consoles+ (2/2)](games/1994/Samurai Shodown 2/9.md)
         * [Street Hoop](games/1994/Street Hoop/index.md)
             * [Test - Player One (1/2)](games/1994/Street Hoop/1.md)
             * [Test - Player One (2/2)](games/1994/Street Hoop/2.md)
